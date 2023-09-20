@@ -1,4 +1,4 @@
-Store Management System using Singly Linked List
+#Store Management System using Singly Linked List
 This Java program implements a simple Store Management System using a singly linked list data structure. It allows users to perform various operations such as buying products, displaying product bills, adding new products, and canceling product orders. Here's a brief overview of the code:
 
 Code Structure
